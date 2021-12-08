@@ -1,2 +1,1 @@
-# TradingView MERN Stack
-TradingView MERN Stack
+# React test
